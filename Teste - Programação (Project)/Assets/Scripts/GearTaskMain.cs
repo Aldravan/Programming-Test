@@ -262,6 +262,9 @@ public class GearTaskMain : MonoBehaviour
     #region MonoBehaviour Methods
     void Start()
     {
+        // Defines the default text to the balloon
+        balloon.text = textDefault;
+
         // Get the private allocations
         camera_ = FindObjectOfType<Camera>();
         canvasScaler_ = GetComponent<CanvasScaler>();

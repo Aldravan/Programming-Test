@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: ccbc4b7be1bc51c4ba59042ff6022904
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Crenix
+  fontNames:
+  - Crenix
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 0c1761b1c759f52408df48b6a373d500, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
